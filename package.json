@@ -1,0 +1,14 @@
+{
+  "name": "caritemansekitar-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.3",
+    "firebase-admin": "^11.10.0",
+    "node-cron": "^3.0.2",
+    "geolib": "^3.3.3"
+  }
+}
